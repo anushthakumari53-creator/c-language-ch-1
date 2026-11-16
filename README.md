@@ -5,7 +5,7 @@ EBalagurusamy ch-1 algorithem, flowchart
 
 Step1:Start.
 Step2:Input radius of a circle. 
-Step3:Area=2*3.14*radius*radius.
+Step3:Area=3.14*radius*radius.
 Step4:Print Area. 
 Step5:Stop 
 
