@@ -1,0 +1,16 @@
+Algorithem to find the roots of quadratic equation. 
+
+Step1: Start. 
+Step2:Input Coefficient a,b, and c. 
+Step3:      D= b×b-(4×a×c)         
+Case1: If(D>0) roots real and distinct. 
+Root1: (-b+sqrt(D)) ÷ (2×a) 
+Root2:(-b-sqrt(D) ÷(2×a) 
+print Root1 and Root2
+
+Case2: If(D=0), roots real and equal
+Root1=Root2=-b÷(2×a) 
+print Root1 and Root2
+Case3:If(D<0) roots are imaginary
+print"Roots are imaginary "
+Step4:Stop   
